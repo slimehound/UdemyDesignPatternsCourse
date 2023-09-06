@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Coding.Exercise;
-
-public class CodeBuilder
+namespace Coding.Exercise
 {
-    // To Do
+    public class CodeBuilder
+    {
+        // To Do
+    }
 }
