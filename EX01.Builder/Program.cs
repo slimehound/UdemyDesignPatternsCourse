@@ -1,6 +1,6 @@
 ﻿using Coding.Exercise;
 
-CodeBuilder cb = new("Person")
+var cb = new CodeBuilder("Person")
     .AddField("Name", "string")
     .AddField("Age", "int");
 
